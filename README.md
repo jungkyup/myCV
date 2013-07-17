@@ -9,7 +9,7 @@ This is my Curriculum Vitae, made using `XeTeX`.
 
 To install `XeTeX`, run on OSX
 
-  $ brew install https://raw.github.com/gist/3293330/fbc637e8632ac78450f4568626a1120177276fd6/texlive.rb
+    $ brew install https://raw.github.com/gist/3293330/fbc637e8632ac78450f4568626a1120177276fd6/texlive.rb
 
 This will install a copy of `XeTeX`, and the latex packages
 
