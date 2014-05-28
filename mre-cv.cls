@@ -101,9 +101,9 @@
       \ifcase\value{colorCounter}%
         red\or%
         blue\or%
-        headercolor\or%
         orange\or%
         headercolor\or%
+        green\or%
         blue\or%
         orange\or%
         green\or%

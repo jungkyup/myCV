@@ -3,19 +3,15 @@ MyCV
 
 ## About
 
-This is my Curriculum Vitae, made using `XeTeX`. 
+This is my Curriculum Vitae, made using `XeLaTeX`. 
 
 ## Installation
 
-To install `XeTeX`, run on OSX
-
-    $ brew install https://raw.github.com/gist/3293330/fbc637e8632ac78450f4568626a1120177276fd6/texlive.rb
-
-This will install a copy of `XeTeX`, and the latex packages
+To install `XeLaTeX`, download one of the distributions from http://www.tug.org/mactex/
 
 In order to compile this, I run
 
-    $ xetex cv.tex 
+    $ xelatex cv.tex 
 
 ## License
 
@@ -23,4 +19,4 @@ MyCV is released under the Apache License 2.0. See the bundled LICENSE file for 
 
 ## Credits
 
-Thanks for Adrian Friggeri for creating the original `cls` file.
+Thanks to Adrian Friggeri for creating the original `cls` file.
